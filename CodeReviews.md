@@ -1,12 +1,12 @@
 # Code Reviews
 ---
-
+<!-- TODO Confirm format w/ team -->
 ## What are Code Reviews?
 
 Code reviews involve examining and evaluating code written by peers to ensure its quality, efficiency, and adherence to established standards. They provide an opportunity for collaboration, knowledge sharing, and early identification of issues in the development process.
 
 ## Benefits of Code Reviews
-
+<!-- TODO Add Benefits -->
 
 ## Best Practices for Code Reviews
 1. **Establish Clear Guidelines:** Define clear guidelines and standards for code reviews, including coding conventions, design patterns, and documentation requirements.

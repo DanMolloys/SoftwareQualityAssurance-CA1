@@ -31,7 +31,7 @@ Aim for 500 - 1000 words per topic. Pictures/diagrams are excellent for conveyin
 
 ## Handbook
 
-- [Project Plan](.md)
+- [Project Plan](ProjectPlan.md)
 - [Task Estimation in Scrum]()
 - [Code Reviews]()
 - [CI/CD]()

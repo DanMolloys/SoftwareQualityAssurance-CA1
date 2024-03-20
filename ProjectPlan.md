@@ -14,10 +14,15 @@
  ## Tasks and Assignments
 
  ### Task Estimation in Scrum (Jeff)
-1. 
+1. Research on Tasks estimation
+2. summarised the benefits of a estimating tasks properly.
+3. added some well known techniques used to estimate tasks.
+4. provided references
+5. contributed feedback to code review feature branch
+6. Review and merge pull request related to `task estimation` and `code-review`.
 
  ### Code Reviews (Hannah)
-1. Research code review process and best practices
+1. Researched code review process and best practices
 2. Summarise research into guidelines
 3. Provide references
 4. Ensure format is standardised across handbook

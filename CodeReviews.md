@@ -1,14 +1,29 @@
 # Code Reviews
----
-<!-- TODO Confirm format w/ team -->
+
+
 ## What are Code Reviews?
 
-Code reviews involve examining and evaluating code written by peers to ensure its quality, efficiency, and adherence to established standards. They provide an opportunity for collaboration, knowledge sharing, and early identification of issues in the development process.
+Code reviews involve examining and evaluating code written by peers to ensure its quality, efficiency, and adherence to established standards. They provide an opportunity for collaboration, knowledge sharing, and early identification of issues in the development process. The goal is to achieve consistent progress and minimize defects in production by adhering to best practices in code reviews process.
 
 ## Benefits of Code Reviews
-<!-- TODO Add Benefits -->
+**Code reviews offer numerous benefits to both individuals’ developers and the entire team. By conducting regular code reviews, you can:**
+- Improve code quality and readability.
+- Identify and address bugs and vulnerabilities early. 
+- Foster collaboration and knowledge sharing among team members.
+- Ensure overall software development process.
 
 ## Best Practices for Code Reviews
+
+### Preparing for a Code Review
+Before submitting your code for review, ensure that:
+Your code is well-documented and follows the agreed upon coding standards.
+- You have performed unit testing where possible, to verify functionality.
+- The changes are concise and focused, ideally not exceeding the agreed upon lines of code per review.
+
+### Conducting a Code Review
+
+**When reviewing code, consider the following best practices:**
+
 1. **Establish Clear Guidelines:** Define clear guidelines and standards for code reviews, including coding conventions, design patterns, and documentation requirements.
 
 2. **Conduct Regular Reviews:** Schedule regular code review sessions as part of the development process to ensure prompt and comprehensive review of code changes.
@@ -25,6 +40,14 @@ Code reviews involve examining and evaluating code written by peers to ensure it
 
 8. **Follow Up on Feedback:** Follow up on review feedback and recommendations by addressing identified issues and incorporating suggested improvements into the codebase.
 
+9. **Review the Code Not the Coder:** Focus on the code changes and not the individual who wrote them.
+
+### After the Code Review
+**Once the review is complete:**
+- Address the feedback promptly.
+- Update the code and documentation as needed.
+- Ensure all tests pass before merging the changes.
+
 ## Pitfalls to Avoid
 
 - Being overly critical or dismissive of feedback.
@@ -36,7 +59,7 @@ Code reviews involve examining and evaluating code written by peers to ensure it
 
 - [Pros and Cons of Code Reviews - Medium](https://medium.com/@priyanthinisivasubramaniyam/pros-and-cons-of-code-reviews-everything-to-know-about-code-review-as-a-beginner-part-03-dddb77467c9d)
 
-- [Effective Techniques for Code Review - Dev.to](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
+- [Best Practices for Effective Development Workflows - Keypup.io](https://www.keypup.io/blog/mastering-code-review-process)
 
 - [The Importance of Code Reviews - Programmers.io](https://programmers.io/blog/importance-of-code-reviews-in-software-development/)
 

@@ -1,5 +1,6 @@
 # Task Estimation in SCRUM
-## Introduction
+
+## What is Task Estimation?
 Task estimation is the process of assigning a numerical value to the effort or complexity of a task or a user story in a software project. Task estimation is a crucial aspect of Scrum, helping teams plan and manage their work effectively. In our fast-moving startup, we recognize the need for a standardized approach to task estimation to improve project predictability and reduce defects in production. This handbook outlines the best practices for task estimation within our Scrum framework.
 
 source: https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
@@ -17,7 +18,6 @@ source: https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
 - **Story points**: A story point is a unit of measurement that represents the relative effort or complexity of a user story. Story points are not equivalent to hours or days, but rather to a level of difficulty or uncertainty. For example, simple and well defined user story may have 1 story point, while complex and vague uers story may have 8 story points.
 - **Velocity**: Velocity is the average number of story points that a Scrum team can complete in a sprint. Velocity is calculated by dividing the total number of story points completed in the last few sprints by the number of sprints. This will help the team to estimate how much work they can commit to in the next sprint, and to forecast how long it will take to deliver the product backlog.
 - **Sprint**: A sprint is a fixed period, in which the team works on a set of user stories that they have committed to deliver. A sprint consists of four main events: Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
-
 
 ## Task Estimation Techniques
 
@@ -60,21 +60,21 @@ Dot Voting is a democratic technique that involves team using a set of markers t
     - <b>Option shortage</b>, As there is a only a set amount to vote on, if what you think is best isn't even an option, you may have to suggest a new method.
     - <b>Cause and Effect</b>, Sometimes one task must be completed beofre another can begin and the dot method doesn't really allow for explaination on this and how one decision can effect another.
 
-### **Some tips and best practices for choosing and applying the appropriate technique for different situations are:**
-- Consider the size and the complexity of the user stories, and choose a technique that can handle them effectively and efficiently. For example, Planning Poker may be more suitable for small or medium user stories, while T-shirt sizing or Dot Voting may be more suitable for large or complex user stories.
-- Consider the time and the resources available for the task estimation process, and choose a technique that can fit them realistically and optimally. For example, Planning Poker may require more time and effort, while T-shirt sizing or Dot Voting may require less time and effort.
-- Consider the preferences and the expectations of the team and the Product Owner, and choose a technique that can satisfy them adequately and satisfactorily. For example, Planning Poker may provide more accuracy and reliability, while T-shirt sizing or Dot Voting may provide more simplicity and flexibility.
-- Experiment and compare different techniques and choose a technique that can deliver the best results and outcomes. For example, the team can try different techniques for different user.
+### Some tips and best practices for choosing and applying the appropriate technique for different situations are:
 
+1. Consider the size and the complexity of the user stories, and choose a technique that can handle them effectively and efficiently. For example, Planning Poker may be more suitable for small or medium user stories, while T-shirt sizing or Dot Voting may be more suitable for large or complex user stories.
+2. Consider the time and the resources available for the task estimation process, and choose a technique that can fit them realistically and optimally. For example, Planning Poker may require more time and effort, while T-shirt sizing or Dot Voting may require less time and effort.
+3. Consider the preferences and the expectations of the team and the Product Owner, and choose a technique that can satisfy them adequately and satisfactorily. For example, Planning Poker may provide more accuracy and reliability, while T-shirt sizing or Dot Voting may provide more simplicity and flexibility.
+4. Experiment and compare different techniques and choose a technique that can deliver the best results and outcomes. For example, the team can try different techniques for different user.
 
+### References:
 
-### Sources:
-https://plan.io/blog/estimating-projects/
+- [Estimating Projects - Plan.io](https://plan.io/blog/estimating-projects )
 
-https://unrubble.com/blog/realistic-time-estimation
+- [Realistic Time Estimation - Unrubble.com](https://unrubble.com/blog/realistic-time-estimation)
 
-https://asana.com/resources/estimation-methods
+- [Estimatiion Methods - Asana.com](https://asana.com/resources/estimation-methods)
 
-https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating
+- [Task Estimating - UWaterloo.ca](https://uwaterloo.ca/ist-project-management-office/methodology/project-management/planning/project-schedule/task-estimating)
 
-https://www.projectmanager.com/blog/5-tips-for-task-estimating
+- [5 Tips for Task Estimating - ProjectManager.com](https://www.projectmanager.com/blog/5-tips-for-task-estimating)

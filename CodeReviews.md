@@ -42,10 +42,10 @@ Code reviews involve examining and evaluating code written by peers to ensure it
 
 ## Pitfalls to Avoid
 
-- Being overly critical or dismissive of feedback.
+- Being overly critical or dismissive of feedback. 
 - Focusing solely on coding style and syntax.
 - Ignoring documentation and test coverage.
-- Rushing through the review process without thorough examination.
+- Rushing through the review process without thorough examination. This can lead to bugs or isuues falling through the cracks and into production. Be sure everything is checked and correct.
 
 ## References:
 

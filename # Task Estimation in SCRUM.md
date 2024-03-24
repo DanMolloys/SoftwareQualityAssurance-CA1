@@ -5,7 +5,7 @@ Task estimation is the process of assigning a numerical value to the effort or c
 
 ![figure 1](image-1.png)
 
-**Task estimation will help the team to:**
+**Some Benefits of Tasks Estimation**
 - Plan and prioritize their work based on the value and the effort of each user story.
 - Track and measure their progress and performance using metrics such as velocity and burndown charts.
 - Communicate and align their expectations and assumptions with the Product Owner and other stakeholders.

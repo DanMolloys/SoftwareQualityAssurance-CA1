@@ -1,9 +1,9 @@
 # Task Estimation in SCRUM
 
 ## What is Task Estimation?
-Task estimation is the process of assigning a numerical value to the effort or complexity of a task or a user story in a software project. Task estimation is a crucial aspect of Scrum, helping teams plan and manage their work effectively. In our fast-moving startup, we recognize the need for a standardized approach to task estimation to improve project predictability and reduce defects in production. This handbook outlines the best practices for task estimation within our Scrum framework.
+Task estimation is the process of assigning a numerical value to the effort or complexity of a task or a user story in a software project. Task estimation is a crucial aspect of Scrum, helping teams plan and manage their work effectively. In a fast-moving startup, it is important to recognize the need for a standardized approach to task estimation to help improve project predictability and reduce defects in production. This handbook outlines the best practices for task estimation within our Scrum framework.
 
-source: https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
+![figure 1](image-1.png)
 
 **Task estimation will help the team to:**
 - Plan and prioritize their work based on the value and the effort of each user story.
@@ -25,6 +25,9 @@ source: https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
 
 Planning Poker is a consensus-based technique. The team can a set of cards with numbers that represent story points, such as the Fibonacci sequence (1, 2, 3, 5, 8, etc.). After a user story is briefly discused, each team member secretly selects a card that represents their estimate for the user story. The cards are revealed simultaneously, and the team compares their estimates. Incase of large discrepancy, further discussion about the reasons and the assumptions behind their estimates is done and the initial process is repeated to reach a consensus.
 
+![alt text](image-2.png)
+
+
 - Advantages:
     - <b>Promotes inclusivity</b>, ensures that everyone gets a chance to contribute to the estimation process. It encourages private estimates to prevent bias and promotes discussion
     - <b>Effective management of unknowns</b>, allows for continuous negotiation and adjustment of estimates throughout a session. It emphasizes estimating uncertain items first, reducing the risk of scope creep.
@@ -39,6 +42,8 @@ Planning Poker is a consensus-based technique. The team can a set of cards with 
 
 T-shirt sizing is a relative technique that involves the team using a set of categories that represent the size of a user story, such as XS, S, M, L, XL, XXL, etc. After a user story is briefly discused, each team member votes for a category that represents their estimate for the user story. The team compares their votes and decides on a final category for the user story.
 
+![alt text](image-3.png)
+
 - Advantages:
     - <b>Simplified estimation</b>, enables teams to quickly estimate time to be taken on a large number of items.
     - <b>Good gauge for the team</b>, as this is a rough estimate it gives the team an outline of how extensive the project will be and how deep they should go
@@ -48,7 +53,8 @@ T-shirt sizing is a relative technique that involves the team using a set of cat
     - <b>Consistent relative sizes.</b>, Everyone must be in agreemet of what the sizes mean. If someone thinks a small is 10 minutes but its actually 2 days, this will lead to massive faults.
     - <b>Less accurate</b>, as this is a rough estimate, it will definatily be less accurate then a using numeric values.
 
-- **Dot Voting**
+
+ **Dot Voting**
 
 Dot Voting is a democratic technique that involves team using a set of markers that represent votes. After a user story is briefly discused, the team places the user story on a board, along with other user stories that have been estimated. Each team member has a limited number of votes that they can distribute among the user stories, according to their estimates. Ater the votes are counted, numerical values are assigned to user story based on the number of votes.
 
@@ -60,14 +66,14 @@ Dot Voting is a democratic technique that involves team using a set of markers t
     - <b>Option shortage</b>, As there is a only a set amount to vote on, if what you think is best isn't even an option, you may have to suggest a new method.
     - <b>Cause and Effect</b>, Sometimes one task must be completed beofre another can begin and the dot method doesn't really allow for explaination on this and how one decision can effect another.
 
-### Some tips and best practices for choosing and applying the appropriate technique for different situations are:
+## Some tips and best practices for choosing and applying the appropriate technique for different situations are:
 
 1. Consider the size and the complexity of the user stories, and choose a technique that can handle them effectively and efficiently. For example, Planning Poker may be more suitable for small or medium user stories, while T-shirt sizing or Dot Voting may be more suitable for large or complex user stories.
 2. Consider the time and the resources available for the task estimation process, and choose a technique that can fit them realistically and optimally. For example, Planning Poker may require more time and effort, while T-shirt sizing or Dot Voting may require less time and effort.
 3. Consider the preferences and the expectations of the team and the Product Owner, and choose a technique that can satisfy them adequately and satisfactorily. For example, Planning Poker may provide more accuracy and reliability, while T-shirt sizing or Dot Voting may provide more simplicity and flexibility.
 4. Experiment and compare different techniques and choose a technique that can deliver the best results and outcomes. For example, the team can try different techniques for different user.
 
-### References:
+## References:
 
 - [Estimating Projects - Plan.io](https://plan.io/blog/estimating-projects )
 

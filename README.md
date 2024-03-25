@@ -2,36 +2,40 @@
 
 **Group 9:** Daniel Molloy, Hannah Stapleton, Jeff Horbah
 
-## Scenario
+## Introduction to the Engineering Best Practices Handbook
 
-You work for a small, fast moving startup with 20 software engineers. Up to now each engineer on the team has been doing things their own way. Unfortunately this has resulted in very unpredictable progress with projects and a lot of defects making it into production.
+Welcome to our Engineering Best Practices Handbook! As a dynamic and innovative startup, we’ve reached a pivotal moment in our growth. Our team of 20 talented software engineers has brought us this far with their individual expertise and unique approaches.
+ However, as we scale, the need for a cohesive and standardized way of working has become evident. The diversity in methods, while valuable, has led to unpredictable project timelines and an increase in production defects.
 
-Your small team has been asked to research and write a handbook of best practices. Existing and new members of the team will read this to learn what is the "right way" to do things in this company.
+This handbook is crafted to align our engineering efforts and set a standard for the “right way” to do things within our company. It serves as a guide for both existing team members and newcomers, ensuring that everyone is on the same page and moving in the
+ same direction.
 
-The handbook should cover the following topics:
+In these pages, you’ll find a collection of best practices covering essential topics such as:
 
-- Task estimation in Scrum
+Task Estimation in Scrum: Learn how to accurately estimate tasks to ensure sprints are successful and deliverables are met on time.
 
-- Code reviews
+Code Reviews: Understand the importance of peer reviews in maintaining code quality and how to conduct them effectively.
 
-- And one other topic of your choosing, based on your own research
+Continuous Integration and Deployment (CI/CD): Discover the benefits of integrating and deploying code frequently to catch defects early and reduce time to market.
 
-## Requirements
-
-Your team is made up of three developers. Each of you will contribute new content to the project from your computers and also review the other developers contribution.
-
-Your handbook should have an introduction that explains the purpose as well as the structure of the document. It will have a section for each topic that introduces the topic briefly and then summarizes the most important guidelines in bullet points / diagrams. Note that it's just as important to highlight bad practices to avoid as good practices to follow.
-
-Aim for 500 - 1000 words per topic. Pictures/diagrams are excellent for conveying a lot of information quickly. Each section should also contain links to the reference articles for further reading. 
-
-### Project Structure
-
-* Application code can be found in the [`/app/`](/app/) folder.
-* Source files are written in markdown and can be identified by the `.md` file extension.
+Our goal is to foster an environment of collaboration, efficiency, and quality. By adhering to these practices, we can enhance our workflow, reduce errors, and continue to innovate at the speed our industry demands. Let’s embark on this journey together, towards
+ a more structured and productive future.
 
 ## Handbook
 
 - [Project Plan](ProjectPlan.md)
-- [Task Estimation in Scrum]()
-- [Code Reviews]()
-- [CI/CD]()
+- [Task Estimation in Scrum](#TaskEstimationinSCRUM.md)
+- [Code Reviews](CodeReviews.md)
+- [CI/CD](ContinuousIntegrationandContinuousDeployment.md)
+
+## Contribution
+| Team Member      | Contribution                                                                                                      | Verified By |
+|------------------|---------------------------|-------------|
+| Jeff Horbah <br>     | - Wrote most of Task Estimations section<br> - Contributed to Code Reviews section<br> - Scheduled meetings               | Daniel       |
+| Daniel Molloy <br>     | - Wrote most of CI/CD section<br> - Contributed to Task Estimations section<br> - Created project plan and assigned tasks | Hannah      |
+| Hannah Stapleton <br>  | - Wrote most of Code Reviews section<br> - Contributed to CI/CD section<br> - Contributed to formatting sections         | Jeff       |
+
+## What we Would do Differently
+- Add more detail to commit messages and pull requests to make reviewing easier
+- Allotting more time to the review process
+- Better plan and research git proccesses and git flow

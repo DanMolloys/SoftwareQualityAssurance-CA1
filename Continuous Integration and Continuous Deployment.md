@@ -41,19 +41,14 @@ Both Continuous Integration and Continuous Deployment have indvidual benefits th
 - <b>Lack of Documentation</b>, documenting the process, changes, and the system status is crucial for maintaining and troubleshooting the CI/CD pipeline.
 
 ## References
-- What is CI/CD? - InfoWorld 
-https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#:~:text=A%20mature%20devops%20team%20with,directly%20to%20the%20production%20environment.
+- [What is CI/CD? - InfoWorld](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html#:~:text=A%20mature%20devops%20team%20with,directly%20to%20the%20production%20environment.)
 
-- 5 common pitfalls of CI/CD—and how to avoid them -InfoWorld
-https://www.infoworld.com/article/3113680/5-common-pitfalls-of-cicd-and-how-to-avoid-them.html
+- [5 common pitfalls of CI/CD—and how to avoid them -InfoWorld](https://www.infoworld.com/article/3113680/5-common-pitfalls-of-cicd-and-how-to-avoid-them.html)
 
-- Continuous Integration vs. Delivery vs. Deployment - JetBrains  
-https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/#:~:text=Continuous%20integration%2C%20delivery%20and%20deployment,software%20to%20users%20a%20reality.
+- [Continuous Integration vs. Delivery vs. Deployment - JetBrains](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/#:~:text=Continuous%20integration%2C%20delivery%20and%20deployment,software%20to%20users%20a%20reality.)
 
-- Know The Common Mistakes In CI/CD - ForgeAhead
-https://forgeahead.io/blog/common-mistakes-in-ci-cd/
+- [Know The Common Mistakes In CI/CD - ForgeAhead](https://forgeahead.io/blog/common-mistakes-in-ci-cd/)
 
-- How To Set Up a Continuous Integration & Delivery (CI/CD) Pipeline - BMC 
-https://www.bmc.com/blogs/ci-cd-pipeline-setup/
+- [How To Set Up a Continuous Integration & Delivery (CI/CD) Pipeline - BMC](https://www.bmc.com/blogs/ci-cd-pipeline-setup/)
 
 - [CI/CD Best Practices - Middleware.io](https://middleware.io/blog/ci-cd-best-practices/)

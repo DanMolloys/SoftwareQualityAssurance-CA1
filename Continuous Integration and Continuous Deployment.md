@@ -5,6 +5,8 @@ Continuous integration (CI) is the practice of automating the integration of cod
 
 Continuous deployment (CD) is a strategy in software development where code changes to an application are released automatically into the production environment.
 
+![alt text](image.png)
+
 ## Benefits of CI and CD
 Both Continuous Integration and Continuous Deployment have indvidual benefits that when combined lead to improved efficency in software development in teams.
 
